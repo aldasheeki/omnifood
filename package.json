@@ -1,0 +1,13 @@
+{
+  "name": "omnifood",
+  "version": "1.0.0",
+  "description": "omnifood project",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Adrian",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^8.0.0"
+  }
+}
